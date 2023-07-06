@@ -6,7 +6,7 @@ const pool = new Pool({
     user: "postgres",
     password: "1999",
     host: "localhost",
-    port: 3000,
+    port: 5432,
     database: 'todoapp'
 })
 
